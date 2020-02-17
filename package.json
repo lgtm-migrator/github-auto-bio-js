@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/SoulHarsh007/github-auto-bio-js/issues"
   },
-  "homepage": "https://github.com/SoulHarsh007/github-auto-bio-js#readme"
+  "homepage": "https://github.com/SoulHarsh007/github-auto-bio-js#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
 }
