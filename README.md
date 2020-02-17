@@ -18,4 +18,4 @@ You have to get your **openweathermap.org api key**, to allow your app to get th
 
 Now install the dependencies using `npm install` command.
 Now start the script by using `npm start` or `node index.js`.  
-Congratulations! your Github will now update every 5 minutes! Feel free to open an issue if necessary!
+Congratulations! your github bio will now update every 5 minutes! Feel free to open an issue if necessary!
