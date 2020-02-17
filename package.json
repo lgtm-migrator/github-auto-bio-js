@@ -1,0 +1,23 @@
+{
+  "name": "github-auto-bio",
+  "version": "1.0.0",
+  "description": "Automatized Github biography using openweathermap.org API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoulHarsh007/github-auto-bio-js.git"
+  },
+  "keywords": [
+    "Github-Bio"
+  ],
+  "author": "SoulHarsh007",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SoulHarsh007/github-auto-bio-js/issues"
+  },
+  "homepage": "https://github.com/SoulHarsh007/github-auto-bio-js#readme"
+}

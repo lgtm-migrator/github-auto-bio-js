@@ -1,0 +1,5 @@
+{
+    "token": "Your Github API Key Goes Here",
+    "weather": "Your OpenWeatherMap API Key Goes Here",
+    "city": "Ahmedabad"
+}
