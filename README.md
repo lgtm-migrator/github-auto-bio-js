@@ -1,5 +1,6 @@
 # github-auto-bio-js
 
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/SoulHarsh007/github-auto-bio-js.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/SoulHarsh007/github-auto-bio-js/context:javascript)  
 A ready package to auto update GitHub biography! Inspired by Androz2091!  
 
 ## Getting started  
