@@ -21,6 +21,11 @@
   },
   "homepage": "https://github.com/SoulHarsh007/github-auto-bio-js#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "@aero/centra": "^1.0.4",
+    "eslint": "^7.6.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.0.5"
   }
 }
