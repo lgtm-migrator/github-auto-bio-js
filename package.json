@@ -4,8 +4,7 @@
   "description": "Automatized Github biography using openweathermap.org API",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -21,6 +20,14 @@
   },
   "homepage": "https://github.com/SoulHarsh007/github-auto-bio-js#readme",
   "dependencies": {
-    "@aero/centra": "^1.0.4"
+    "@nia3208/centra": "1.0.9-1"
+  },
+  "devDependencies": {
+    "eslint": "7.30.0",
+    "eslint-config-google": "0.14.0",
+    "eslint-config-prettier": "8.3.0",
+    "eslint-plugin-jsdoc": "35.4.3",
+    "eslint-plugin-prettier": "3.4.0",
+    "prettier": "2.3.2"
   }
 }
