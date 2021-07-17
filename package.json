@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/SoulHarsh007/github-auto-bio-js#readme",
   "dependencies": {
-    "@nia3208/centra": "1.0.9-1"
+    "@nia3208/centra": "1.0.9"
   },
   "devDependencies": {
     "eslint": "7.30.0",
